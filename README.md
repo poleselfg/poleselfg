@@ -14,7 +14,7 @@
 const pole = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Styled-Components, Jest, Docker],
+  tools: [React, Vue, Node, Styled-Components, Jest, Docker],
   otherHobbiesAndStuff: {       
                         Studying: "Programmer analyst"
                         Infosec: "Currently studying in C1b3rwall",
