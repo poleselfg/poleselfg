@@ -13,11 +13,10 @@
 ```javascript
 const pole = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, PHP, Typescript],
-  tools: [React, Vue, Node, Styled-Components, Docker, Etc],
+  code: [Javascript, HTML, CSS, and a little Python, PHP],
+  tools: [React, , ReactNative, Vue, Node, Styled-Components, Docker, Etc],
   otherHobbiesAndStuff: {       
-                        Studying: "Programmer analyst"
-                        Infosec: "Currently studying in C1b3rwall",
+                        Studying: Always something new! now playing a lot with tipescrip
                         Motorbikes: "Huge yamaha fan",
                         Music: "Love misfits"
                       },
