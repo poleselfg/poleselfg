@@ -16,7 +16,7 @@ const pole = {
   code: [Javascript, HTML, CSS, and a little Python, PHP],
   tools: [React, , ReactNative, Vue, Node, Styled-Components, Docker, Etc],
   otherHobbiesAndStuff: {       
-                        Studying: Always something new! now playing a lot with tipescrip
+                        Studying: Always something new! now playing a lot with typescript
                         Motorbikes: "Huge yamaha fan",
                         Music: "Love misfits"
                       },
