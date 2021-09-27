@@ -1,6 +1,6 @@
 <h2> I'm Pole!! <img src="https://st2.depositphotos.com/1020341/7457/i/950/depositphotos_74578353-stock-photo-waving-flag-of-italy-and.jpg" width="30"></h2>
 <img align='right' src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Developer at <a href="https://aper.com/">Aper  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Very active member of Refactor devs <a href="https://discord.gg/WmyMGFKMcY"> Join us on discord! </a><img src="https://banner2.cleanpng.com/20190602/okw/kisspng-discord-computer-icons-logo-portable-network-graph-discord-logo-16-x16-png-clipart-download-5cf46a10658692.3312996115595218084159.jpg" width="30"> 
+<p><em>Developer at <a href="https://flipeatapp.com/">Flipeat  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Very active member of Refactor devs <a href="https://discord.gg/WmyMGFKMcY"> Join us on discord! </a><img src="https://banner2.cleanpng.com/20190602/okw/kisspng-discord-computer-icons-logo-portable-network-graph-discord-logo-16-x16-png-clipart-download-5cf46a10658692.3312996115595218084159.jpg" width="30"> 
 </em></p>
 
 [![Twitter: MisfitsCode](https://img.shields.io/twitter/follow/MisfitsCode?style=social)](https://twitter.com/MisfitsCode)
