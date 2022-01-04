@@ -16,9 +16,9 @@ const pole = {
   code: [Javascript, HTML, CSS, Scripting],
   tools: [React, , ReactNative, Node, Styled-Components, Docker, Etc],
   otherHobbiesAndStuff: {       
-                        Studying: "Always something new! now playing with NextJS"
+                        Studying: "Always something new! now playing with NextJS",
                         Motorbikes: "Huge yamaha fan",
-                        Music: "Love misfits"
+                        Music: "Love misfits",
                       },
  challenge: "I try to at least learn something new every day"
 }
