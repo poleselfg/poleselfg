@@ -1,6 +1,6 @@
-<h2> I'm Pole!! <img src="https://st2.depositphotos.com/1020341/7457/i/950/depositphotos_74578353-stock-photo-waving-flag-of-italy-and.jpg" width="30"></h2>
+<h2> I'm Pole!!</h2>
 <img align='right' src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Developer at <a href="https://flipeatapp.com/">Flipeat  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Very active member of Refactor devs <a href="https://discord.gg/WmyMGFKMcY"> Join us on discord! </a><img src="https://banner2.cleanpng.com/20190602/okw/kisspng-discord-computer-icons-logo-portable-network-graph-discord-logo-16-x16-png-clipart-download-5cf46a10658692.3312996115595218084159.jpg" width="30"> 
+<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Software engineer at <a href="https://www.new-work.se/en">New Work  </a>
 </em></p>
 
 [![Twitter: MisfitsCode](https://img.shields.io/twitter/follow/MisfitsCode?style=social)](https://twitter.com/MisfitsCode)
@@ -14,7 +14,7 @@
 const pole = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Scripting],
-  tools: [React, , ReactNative, Node, Styled-Components, Docker, Etc],
+  tools: [React, Typescript, ReactNative, Node, Styled-Components, Javascript, Etc],
   otherHobbiesAndStuff: {       
                         Studying: "Always something new! now playing with NextJS",
                         Motorbikes: "Huge yamaha fan",
@@ -24,6 +24,8 @@ const pole = {
 }
 ```
 
-<img src="https://media0.giphy.com/media/Wj7lNjMNDxSmc/200.webp?cid=ecf05e47gol7hyzftrdpoaar8lchrj2uzbzs0qoz3xgzv14o&rid=200.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+</br>
+<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
