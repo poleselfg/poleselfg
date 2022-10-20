@@ -13,8 +13,8 @@
 ```javascript
 const pole = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Scripting],
-  tools: [React, Typescript, ReactNative, Node, Styled-Components, Javascript, Etc],
+  code: [JavaScript, TypeScript, HTML, CSS, Scripting],
+  tools: [React, ReactNative, Node, Styled-Components, Javascript, Etc],
   otherHobbiesAndStuff: {       
                         Studying: "Always something new! now playing with NextJS",
                         Motorbikes: "Huge yamaha fan",
